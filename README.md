@@ -9,6 +9,7 @@ Notre base de données contient 16 variables et possède 70.692 observations . P
 
 
 Description des données 
+![image](https://github.com/RoseBakhoum/Ndeye-Bakhoum-M2ECAP/assets/154429723/a9bd6e0c-3195-44bc-858c-f8907eae42f0)
 
  Suivant la description des données , nous avons :
  
