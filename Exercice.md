@@ -1,3 +1,4 @@
+![image](https://github.com/RoseBakhoum/Ndeye-Bakhoum-M2ECAP/assets/154429723/8390485b-44b0-4dec-a8f7-0f76e1b59399)
 
 # ETUDE SUR LES TENDANCES D'ACHATS DES CLIENTS
  
